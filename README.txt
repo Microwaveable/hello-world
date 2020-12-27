@@ -6,7 +6,7 @@ This is README.txt
 
  \\\\\
  |    |
- |. . |
+ |* * |
  | o  |3
  | _  |
  \____|
@@ -24,4 +24,4 @@ This is README.txt
    \  \  \
    \  \  \
    \__\__\
- |__/_____|    <-- This is me.
+ |__/_____|    <-- This is not me! do not be fooled!
