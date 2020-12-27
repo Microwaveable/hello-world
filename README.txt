@@ -2,7 +2,7 @@
 A repo called 'hello-world'
 
 
-This is README.md
+This is README.txt
 
  \\\\\
  |    |
